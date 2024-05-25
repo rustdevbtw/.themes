@@ -8,9 +8,4 @@
  * @invite r6Mdz5dpFc
  * **/
 
-@import url("https://catppuccin.github.io/discord/dist/catppuccin-frappe.theme.css");
-
-/* Set Font */
-* {
-  font-family: CaskaydiaCove Nerd Font !important;
-}
+@import url("https://raw.githubusercontent.com/rustdevbtw/.themes/main/frappe.css");
