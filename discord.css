@@ -1,0 +1,7 @@
+/* Cappuccin Frappe */
+@import url("https://catppuccin.github.io/discord/dist/catppuccin-frappe.theme.css");
+
+/* Set Font */
+* {
+  font-family: CaskaydiaCove Nerd Font !important;
+}
